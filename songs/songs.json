@@ -1,0 +1,73 @@
+{
+    "cs":{
+        "title" : "Copyright Songs",
+        "description" : "Cover Songs for you",
+        "cover":"Cs_cover.jpg",
+        "songs":[
+            "Heeriye-(SambalpuriStar.In).mp3",
+            "Ram Siya Ram-(SambalpuriStar.In).mp3"
+        ]
+    },
+
+  "ncs": {
+    "title": "Sleep Songs",
+    "description": "Songs for you",
+    "cover": "cover.jpg",
+    "songs": [
+      "Annihilate - Jeremy Blake.mp3",
+      "Let's Go Home - Jeremy Blake.mp3",
+      "Lost_and_Found_-_Jeremy_Blake.mp3",
+      "The Emperor's Army - Jeremy Blake.mp3"
+
+    ]
+  },
+
+  "Love_mood": {
+    "title": "Love Songs",
+    "description": "Love is in the air",
+    "cover": "Love_cover.jpg",
+    "songs": [
+      "shadows-within-yesterday.mp3"
+    ]
+  },
+
+  "Angry_mood": {
+    "title": "Angry Mood",
+    "description": "Calm your anger",
+    "cover": "Angry_cover.jpg",
+    "songs": [
+      "cybernetic-rage.mp3"
+    ]
+  },
+
+
+  "Karan Aujla": {
+        "title": "Karan Aujla",
+        "description": "Karan Aujla for you",
+        "cover": "Karan_cover.jpg",
+    "songs": [
+      "De De Pyaar De 2 - 3 Shaukk Song.mp3"
+    ]
+  },
+
+  "Bright_(mood)": {
+    "title": "Bright Songs",
+    "description": "Bright Songs for you",
+    "cover": "Bright_cover.jpg",
+    "songs":[
+      "happy-mood-126767.mp3"
+    ]
+  },
+
+  "Diljit": {
+    "title": "Diljit Dosanjh",
+    "description": "Diljit Dosanjh hits",
+    "cover": "Diljit_cover.jpg",
+    "songs":[
+      "Patola - Diljit Dosanjh & Kaur B (Mr-Punjab.Com)-128kb.mp3"
+    ]
+  }
+
+
+}
+
