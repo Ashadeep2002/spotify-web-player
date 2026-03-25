@@ -4,6 +4,12 @@ A Spotify-inspired web music player built using **HTML, CSS, and Vanilla JavaScr
 
 ---
 
+### Live Demo Link - 
+
+https://homeofsongs.netlify.app/
+
+---
+
 ## 🛠 Tech Stack
 - HTML5  
 - CSS3  
